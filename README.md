@@ -2,6 +2,7 @@
 Image processing with a new feature which simply make the image square by adding extra pixels to upper and bottom as well as left and right to make image square in shape so that it can be uploaded on instagram or as an whatsaap profile picture   
 
 a jar file is used here i.e thumbnailator.jar
+source image is Screen Shot 2016-03-21 at 10.42.23 PM.jpg
 
 Steps to use it
   1.Copy whole source code to the termilal (.java file) or in netbeans Project name FinalProjectV4
